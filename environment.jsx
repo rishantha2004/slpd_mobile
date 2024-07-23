@@ -1,0 +1,1 @@
+export default BASE_URL = "https://probable-yovonnda-ceylonis-a9d24c73.koyeb.app/"
